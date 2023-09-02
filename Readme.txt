@@ -7,11 +7,10 @@ Todos os comandos estão no arquivo "querys.sql"
 ===========================================
 ===========================================
 
-O projeto foi feito apenas para praticar, logo ainda resta muitas 
-coisas para ficar igual ao aplicativo do Twitter.
+Projeto feito apenas para praticar.
 
-Fique à vontade para implementar qualquer coisa no código, e 
-deixá-lo mais parecido com o Twitter, ou para usá-lo como base 
-para a construção de uma nova rede social.
+Ainda resta muitas coisas para ficar igual ao aplicativo do Twitter.
+
+Projeto baseado nas aulas do curso de desenvolvimento web do professor Jorge Sant'Ana.
 
 ===========================================
